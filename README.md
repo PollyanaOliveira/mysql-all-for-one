@@ -4,6 +4,7 @@
 ## Objetivo do Projeto
 Criar soluções que envolvam os principais comandos e conceitos iniciais do *SQL* .
 
+
 ## Desenvolvido por
 
 @PollyanaOliveira
